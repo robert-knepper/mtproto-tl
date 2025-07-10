@@ -1,0 +1,17 @@
+{
+    "name": "black-hammer/mtproto-tl",
+    "autoload": {
+        "psr-4": {
+            "BlackHammer\\MtprotoTl\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Robert",
+            "email": "mohammadhasan1379.79@gmail.com"
+        }
+    ],
+    "require": {
+        "larapack/dd": "^1.1"
+    }
+}
